@@ -1,4 +1,6 @@
-Data Cleaning Project
+IMDB MOVIES DATASET.
+
+
 This project focuses on a data cleaning task performed on a dataset available in the following Google Drive folder:https://drive.google.com/drive/folders/1akZcttUgyiDYRtoKAACvsS5TnMhLCNRH?direction=a.
 
 Project Overview
