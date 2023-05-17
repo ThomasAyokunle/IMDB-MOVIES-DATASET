@@ -1,0 +1,100 @@
+,IMBD title ID,Original titlÊ,Release year,Genrë¨,Duration,Country,Content Rating,Director,Income, Votes ,Score
+0,tt0111161,The Shawshank Redemption,1995-10-02,Drama,02:22,USA,R,Frank Darabont,28815245,2278845.0,9.3
+1,tt0068646,The Godfather,1972-09-21,"Crime, Drama",02:55,USA,R,Francis Ford Coppola,246120974,1572674.0,9.2
+2,tt0468569,The Dark Knight,2008-07-23,"Action, Crime, Drama",02:32,USA,PG-13,Christopher Nolan,1005455211,2241615.0,9.0
+3,tt0071562,The Godfather: Part II,1975-09-25,"Crime, Drama",03:40,USA,R,Francis Ford Coppola,408035783,1098714.0,9.0
+4,tt0110912,Pulp Fiction,1994-10-28,"Crime, Drama",02:34,USA,R,Quentin Tarantino,222831817,1780147.0,8.9
+5,tt0167260,The Lord of the Rings: The Return of the King,2004-02-22,"Action, Adventure, Drama",03:21,New Zealand,PG-13,Peter Jackson,1142271098,1604280.0,8.9
+6,tt0108052,Schindler's List,1994-11-03,"Biography, Drama, History",03:15,USA,R,Steven Spielberg,322287794,1183248.0,8.9
+7,tt0050083,12 Angry Men,1957-04-09,"Crime, Drama",01:36,USA,No Rating,Sidney Lumet,576,668473.0,8.9
+8,tt1375666,Inception,2010-09-24,"Action, Adventure, Sci-Fi",02:28,USA,PG-13,Christopher Nolan,869784991,2002816.0,8.8
+9,tt0137523,Fight Club,1999-10-29,Drama,02:19,UK,R,David Fincher,101218804,1807440.0,8.8
+10,tt0109830,Forrest Gump,1994-06-10,"Drama, Romance",02:22,USA,PG-13,Robert Zemeckis,678229452,1755490.0,8.8
+11,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2002-01-18,"Action, Adventure, Drama",02:58,New Zealand,PG-13,Peter Jackson,887934303,1619920.0,8.8
+12,tt0060196,"Il buono, il brutto, il cattivo",1966-12-23,Western,02:41,Italy,No Rating,Sergio Leone,25252481,672499.0,8.8
+15,tt0167261,The Lord of the Rings: The Two Towers,2003-01-16,"Action, Adventure, Drama",02:59,New Zealand,PG-13,Peter Jackson,951227416,1449778.0,8.7
+16,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980-09-19,"Action, Adventure, Fantasy",02:04,USA,PG,Irvin Kershner,549265501,1132073.0,8.7
+17,tt0099685,Goodfellas,1990-09-20,"Biography, Crime, Drama",02:26,USA,R,Martin Scorsese,46879633,991505.0,8.7
+18,tt0073486,One Flew Over the Cuckoo's Nest,1976-11-18,Drama,02:13,USA,R,Milos Forman,108997629,891071.0,8.7
+19,tt0816692,Interstellar,2014-06-11,"Adventure, Drama, Sci-Fi",02:49,USA,PG-13,Christopher Nolan,696742056,1449256.0,8.6
+20,tt0114369,Se7en,1995-12-15,"Crime, Drama, Mystery",02:07,USA,R,David Fincher,327333559,1402015.0,8.6
+21,tt0102926,The Silence of the Lambs,1991-05-03,"Crime, Drama, Thriller",01:58,USA,R,Jonathan Demme,272753884,1234134.0,8.6
+22,tt0076759,Star Wars,1977-10-20,"Action, Adventure, Fantasy",02:01,USA,PG,George Lucas,775768912,1204107.0,8.6
+23,tt0120815,Saving Private Ryan,1998-10-30,"Drama, War",02:49,USA,R,Steven Spielberg,482349603,1203825.0,8.6
+24,tt0120689,The Green Mile,2000-03-10,"Crime, Drama, Fantasy",03:09,USA,R,Frank Darabont,286801374,1112336.0,8.6
+25,tt0317248,Cidade de Deus,2003-09-05,"Crime, Drama",02:10,Brazil,R,"Fernando Meirelles, KÃ¡tia Lund",30680793,685856.0,8.6
+26,tt0245429,Sen to Chihiro no kamikakushi,2003-04-18,"Animation, Adventure, Family",02:05,Japan,PG,Hayao Miyazaki,355467056,626693.0,8.6
+27,tt0118799,La vita B9 bella,1997-12-20,"Comedy, Drama, Romance",01:56,Italy,PG,Roberto Benigni,230098753,605648.0,8.6
+28,tt6751668,Gisaengchung,2019-07-11,"Comedy, Drama, Thriller",02:12,South Korea,PG,Bong Joon Ho,257604912,470931.0,8.6
+29,tt0038650,It's a Wonderful Life,1948-11-03,"Drama, Family, Fantasy",02:10,USA,PG,Frank Capra,6130720,38831.0,8.6
+30,tt0047478,Shichinin no samurai,1955-08-19,"Action, Adventure, Drama",03:27,Japan,No Rating,Akira Kurosawa,322773,307958.0,8.6
+31,tt0172495,Gladiator,2000-05-19,"Action, Adventure, Drama",02:35,USA,R,Ridley Scott,465361176,1308193.0,8.5
+32,tt0407887,The Departed,2006-10-27,"Crime, Drama, Thriller",02:31,USA,R,Martin Scorsese,291465034,1159703.0,8.5
+33,tt0482571,The Prestige,2006-12-22,"Drama, Mystery, Sci-Fi",02:10,UK,PG-13,Christopher Nolan,109676311,1155723.0,8.5
+34,tt0088763,Back to the Future,1985-10-18,"Adventure, Comedy, Sci-Fi",01:56,USA,PG,Robert Zemeckis,388774684,1027330.0,8.5
+35,tt0120586,American History X,1999-08-27,Drama,01:59,USA,R,Tony Kaye,23875127,1014218.0,8.5
+36,tt0110413,LÃ©on,1995-07-04,"Action, Crime, Drama",01:50,France,PG,Luc Besson,19552639,1007598.0,8.5
+37,tt0103064,Terminator 2: Judgment Day,1991-12-19,"Action, Sci-Fi",02:17,USA,R,James Cameron,520884847,97497.0,8.4
+38,tt0114814,The Usual Suspects,1995-11-30,"Crime, Mystery, Thriller",01:46,USA,R,Bryan Singer,23341568,968947.0,8.4
+39,tt0110357,The Lion King,1994-11-25,"Animation, Adventure, Drama",01:28,USA,G,"Roger Allers, Rob Minkoff",968511805,917248.0,8.4
+40,tt7286456,Joker,2019-03-10,"Crime, Drama, Thriller",02:02,USA,PG,Todd Phillips,1074251311,855097.0,8.4
+41,tt1675434,Intouchables,2012-02-24,"Biography, Comedy, Drama",01:52,France,PG,"Olivier Nakache, Ãric Toledano",426588510,736691.0,8.4
+42,tt0253474,The Pianist,2002-10-25,"Biography, Drama, Music",02:30,UK,R,Roman Polanski,120072577,707942.0,8.4
+43,tt2582802,Whiplash,2015-12-02,"Drama, Music",01:46,USA,R,Damien Chazelle,48983260,690732.0,8.4
+44,tt0054215,Psycho,1960-10-28,"Horror, Mystery, Thriller",01:49,USA,R,Alfred Hitchcock,32008644,586765.0,8.3
+45,tt0034583,Casablanca,1946-11-21,"Drama, Romance, War",01:42,USA,PG,Michael Curtiz,4374761,509953.0,8.3
+46,tt0064116,C'era una volta il West,1968-12-21,Western,02:45,Italy,PG-13,Sergio Leone,112911,29522.0,8.3
+47,tt0095327,Hotaru no haka,2015-11-10,"Animation, Drama, War",01:29,Japan,PG,Isao Takahata,516962,225438.0,8.3
+48,tt0095765,Nuovo Cinema Paradiso,1988-11-17,Drama,02:35,Italy,PG,Giuseppe Tornatore,13826605,22305.0,8.3
+49,tt0027977,Modern Times,1937-12-03,"Comedy, Drama, Family",01:27,USA,G,Charles Chaplin,457688,21125.0,8.3
+50,tt1345836,The Dark Knight Rises,2012-08-29,"Action, Adventure",02:44,UK,PG-13,Christopher Nolan,1081133191,1480582.0,8.3
+51,tt1853728,Django Unchained,2013-01-17,"Drama, Western",02:45,USA,R,Quentin Tarantino,425368238,1317856.0,8.3
+52,tt0209144,Memento,2001-01-19,"Mystery, Thriller",01:53,USA,R,Christopher Nolan,39970386,1098879.0,8.2
+53,tt0910970,WALLÂ·E,2008-10-17,"Animation, Adventure, Family",01:38,USA,G,Andrew Stanton,521311860,974734.0,8.2
+54,tt0081505,The Shining,1980-12-22,"Drama, Horror",02:26,UK,R,Stanley Kubrick,46520613,86948.0,8.2
+55,tt0082971,Raiders of the Lost Ark,1981-12-06,"Action, Adventure",01:55,USA,PG,Steven Spielberg,390133212,86551.0,8.2
+56,tt4154756,Avengers: Infinity War,2018-04-25,"Action, Adventure, Sci-Fi",02:29,USA,PG,"Anthony Russo, Joe Russo",2048359754,796486.0,8.2
+57,tt0078748,Alien,1979-10-25,"Horror, Sci-Fi",01:57,UK,R,Ridley Scott,108110316,768874.0,8.2
+58,tt4154796,Avengers: Endgame,2019-04-24,"Action, Adventure, Drama",03:01,USA,PG,"Anthony Russo, Joe Russo",2797800564,754786.0,8.2
+59,tt0078788,Apocalypse Now,1979-12-18,"Drama, Mystery, War",02:27,USA,R,Francis Ford Coppola,91968688,591251.0,8.2
+60,tt0364569,Oldeuboi,2005-06-05,"Action, Drama, Mystery",02:00,South Korea,R,Chan-wook Park,15002116,501082.0,8.1
+61,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-03-04,Comedy,01:35,UK,PG,Stanley Kubrick,9443876,441115.0,8.1
+62,tt0047396,Rear Window,1955-04-14,"Mystery, Thriller",01:52,USA,PG,Alfred Hitchcock,37032034,43239.0,8.1
+63,tt2380307,Coco,2017-12-28,"Animation, Adventure, Family",01:45,USA,PG,"Lee Unkrich, Adrian Molina",807083670,352455.0,8.1
+64,tt0405094,Das Leben der Anderen,2007-06-04,"Drama, Mystery, Thriller",02:17,Germany,R,Florian Henckel von Donnersmarck,77356942,349642.0,8.1
+65,tt4633694,Spider-Man: Into the Spider-Verse,2018-12-25,"Animation, Action, Adventure",01:57,USA,PG,"Bob Persichetti, Peter Ramsey",375540831,335892.0,8.1
+66,tt1187043,3 Idiots,2009-12-25,"Comedy, Drama",02:50,India,PG,Rajkumar Hirani,60262836,332217.0,8.1
+67,tt0119698,Mononoke-hime,2000-05-19,"Animation, Adventure, Fantasy",02:14,Japan,PG-13,Hayao Miyazaki,169785629,331045.0,8.0
+68,tt0087843,Once Upon a Time in America,1984-09-28,"Crime, Drama",03:49,USA,R,Sergio Leone,5472914,302317.0,8.0
+69,tt0032553,The Great Dictator,1945-06-25,"Comedy, Drama, War",02:05,USA,PG,Charles Chaplin,969879,197381.0,8.0
+70,tt0043014,Sunset Blvd.,1951-06-03,"Drama, Film-Noir",01:50,USA,PG,Billy Wilder,299645,195789.0,8.0
+71,tt0361748,Inglourious Basterds,2009-02-10,"Adventure, Drama, War",02:33,Germany,R,Quentin Tarantino,321455689,1229958.0,8.0
+72,tt0169547,American Beauty,2000-01-21,Drama,02:02,USA,R,Sam Mendes,356296601,1049009.0,8.0
+73,tt0112573,Braveheart,1995-01-12,"Biography, Drama, History",02:58,USA,R,Mel Gibson,213216216,941683.0,7.9
+74,tt0086190,Star Wars: Episode VI - Return of the Jedi,1983-10-21,"Action, Adventure, Fantasy",02:11,USA,PG,Richard Marquand,475347111,928036.0,7.9
+75,tt0105236,Reservoir Dogs,1992-09-10,"Crime, Drama, Thriller",01:39,USA,R,Quentin Tarantino,2889963,896551.0,7.9
+76,tt0338013,Eternal Sunshine of the Spotless Mind,2004-10-22,"Drama, Romance, Sci-Fi",01:48,USA,R,Michel Gondry,74036715,889875.0,7.9
+77,tt0114709,Toy Story,1996-03-22,"Animation, Adventure, Comedy",01:21,USA,G,John Lasseter,404265438,864461.0,7.9
+78,tt0119217,Good Will Hunting,1998-06-03,"Drama, Romance",02:06,USA,R,Gus Van Sant,225933435,837379.0,7.8
+79,tt0208092,Snatch,2001-03-16,"Comedy, Crime",01:44,UK,R,Guy Ritchie,83557872,766589.0,7.8
+80,tt0180093,Requiem for a Dream,2000-12-15,Drama,01:42,USA,R,Darren Aronofsky,7390108,748291.0,7.8
+81,tt0066921,A Clockwork Orange,1972-07-09,"Crime, Drama, Sci-Fi",02:16,UK,PG,Stanley Kubrick,26903440,740301.0,7.8
+82,tt0435761,Toy Story 3,2010-07-07,"Animation, Adventure, Comedy",01:43,USA,G,Lee Unkrich,1066969703,739717.0,7.8
+83,tt0086250,Scarface,1984-02-24,"Crime, Drama",02:50,USA,R,Brian De Palma,66023585,721343.0,7.8
+84,tt0075314,Taxi Driver,1976-12-24,"Crime, Drama",01:54,USA,R,Martin Scorsese,28441292,703264.0,7.7
+85,tt0211915,Le fabuleux destin d'AmÃ©lie Poulain,2002-01-25,"Comedy, Romance",02:02,France,R,Jean-Pierre Jeunet,173924742,69048.0,7.7
+86,tt0093058,Full Metal Jacket,1987-09-10,"Drama, War",01:56,UK,PG,Stanley Kubrick,46357676,658175.0,7.7
+87,tt0090605,Aliens,1986-09-24,"Action, Adventure, Sci-Fi",02:17,USA,R,James Cameron,131384634,6395.0,7.7
+88,tt0062622,2001: A Space Odyssey,1968-12-12,"Adventure, Sci-Fi",02:29,UK,G,Stanley Kubrick,68989547,587866.0,7.6
+89,tt0033467,Citizen Kane,1948-11-25,"Drama, Mystery",01:59,USA,PG,Orson Welles,1594107,389322.0,7.6
+90,tt8579674,1917,2020-01-23,"Drama, War",01:59,USA,PG,Sam Mendes,384857224,362897.0,7.6
+91,tt0086879,Amadeus,1985-02-15,"Biography, Drama, History",02:40,USA,R,Milos Forman,52066791,361028.0,7.6
+92,tt0052357,Vertigo,1958-11-18,"Mystery, Romance, Thriller",02:08,USA,PG,Alfred Hitchcock,7796389,352786.0,7.5
+93,tt0053125,North by Northwest,1959-10-28,"Adventure, Mystery, Thriller",02:16,USA,PG,Alfred Hitchcock,73446,291628.0,7.5
+94,tt2106476,Jagten,2012-11-22,Drama,01:55,Denmark,R,Thomas Vinterberg,15843274,269616.0,7.5
+95,tt0056172,Lawrence of Arabia,1963-10-29,"Adventure, Biography, Drama",03:48,UK,PG,David Lean,45710874,261504.0,7.5
+96,tt0070735,The Sting,1974-03-21,"Comedy, Crime, Drama",02:09,USA,PG,George Roy Hill,156000000,236285.0,7.5
+97,tt0082096,Das Boot,1982-03-18,"Adventure, Drama, Thriller",02:29,West Germany,R,Wolfgang Petersen,11487676,226427.0,7.5
+98,tt0059578,Per qualche dollaro in piÃ¹,1965-12-20,Western,02:12,Italy,PG,Sergio Leone,15000000,226039.0,7.4
+99,tt1832382,Jodaeiye Nader az Simin,2011-10-21,Drama,02:03,Iran,PG-13,Asghar Farhadi,22926076,214165.0,7.4
+100,tt0045152,Singin' in the Rain,1953-05-02,"Comedy, Musical, Romance",01:43,USA,PG,Stanley Donen,1864182,213152.0,7.4
