@@ -24,10 +24,10 @@ Run the code: Open the cleaned(dirty data).ipynb file in Jupyter Notebook or any
 
 Review the cleaned dataset: Once the cleaning process is complete, you can find the cleaned dataset named cleaned_copy.csv. This file contains the dataset with the applied transformations and cleaned data ready for further analysis.
 
-Results
+Results: 
 The data cleaning process resulted in a cleaned dataset that is now free of inconsistencies and data quality issues. The cleaned dataset is suitable for various analysis, modeling, and visualization tasks. By following the code and instructions in the notebook, you will be able to replicate the cleaning process and obtain similar results.
 
-Contributing
+Contributing: 
 Contributions to this data cleaning project are welcome. If you have any suggestions for improvements or would like to contribute new features, feel free to submit a pull request.
 
 License
