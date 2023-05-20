@@ -10,7 +10,9 @@ The cleaning process aims to address various data quality issues, such as missin
 
 Files Included
 messy_data.csv: The original dataset file.
+
 cleaned_copy.csv: The cleaned version of the dataset.
+
 cleaned(dirty data).ipynb: A Jupyter Notebook containing the code and steps followed for the data cleaning process.
 
 Getting Started
